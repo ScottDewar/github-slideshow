@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "On this slide we will show a quote:"
 ---
 > Hello World!
 
